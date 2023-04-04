@@ -1,0 +1,100 @@
+body{
+    background-color: rgb(151, 199, 248);
+    font-size: large;
+}
+h1{
+    font-family: sans-serif;
+    width: 300px;
+}
+.imagen{
+    display: flex;
+    justify-content:right; margin-top: -109px; 
+    width: 155.54px;
+    height: 155.17px;    
+    right:450.5px;
+    left:4500px;
+    
+    background: url(image002.jpg);
+    border-radius: 76.7142px;
+    transform: rotate(-0.44deg);
+}
+.secundario{
+    width: 700px; 
+}
+.experencia {
+    width:850px;
+    height: 42px;
+    left: 326px;
+    text-align:right;
+
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 37px;
+}
+.lorem{
+    background-color: rgb(255, 255, 255);
+}
+.titulo {
+width:850px;
+height: 42px;
+left: 326px;
+text-align:right;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 37px;
+}
+.h3{
+    width:750px;
+    height: 42px;
+    left: 434px;
+    top: 98px;
+    text-align:right;
+    font-family: 'Lora';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 26px;
+}
+.contenedor{
+    display:flex ;
+    justify-content:start;
+}
+.Links{
+    font-family:Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    display: flex;
+    justify-content:center; margin-top: 50px;
+    flex-direction:column-reverse;
+    width:750px;
+    height: 42px;
+    left: 434px;
+    top: 98px;
+}
+.Links2{
+    font-family:Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    display: flex;
+    justify-content:space-evenly; margin-top: 2px;
+    flex-direction:column-reverse;
+    width:450px;
+    height: 42px;
+    left: 34px;
+    top: 98px;
+}
+.h3E{
+    width:795px;
+    height: 45px;
+    left: 434px;
+    top: 98px;
+    text-align:right;
+    font-family: 'Lora';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 26px;
+}
